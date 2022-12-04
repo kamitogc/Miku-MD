@@ -7,13 +7,13 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
+global.Owner = ['254114148625']
+global.OwnerNumber = ['254114148625']
+global.ownertag = ['254114148625']
 global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
+global.packname = "🍫⃞⃕᭕𝑠𝑐𝑖𝑒𝑛𝑡𝑖𝑠𝑡༆𝑘𝑎𝑛𝑎𝑚𝑏𝑜⟫⚖️⃞᭄"
+global.author = "By: 🍫⃞⃕᭕𝑠𝑐𝑖𝑒𝑛𝑡𝑖𝑠𝑡༆𝑘𝑎𝑛𝑎𝑚𝑏𝑜⟫⚖️⃞᭄"
+global.OwnerName = "🍫⃞⃕᭕𝑠𝑐𝑖𝑒𝑛𝑡𝑖𝑠𝑡༆𝑘𝑎𝑛𝑎𝑚𝑏𝑜⟫⚖️⃞᭄"
 global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
 global.sessionName = "session"
@@ -59,11 +59,11 @@ global.ntilink = []
 
 global.mess = {
     jobdone: 'Job done...',
-    useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
-    botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* can use this command, Baka!',
-    grouponly: 'This command is only made for *Groups*, Baka!',
-    privateonly: 'This command is only made for *Private Chat*, Baka!',
+    useradmin: 'Sorry, only *Group Admins* can use this command ⚠️!',
+    botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group🙋🏿‍♂️make me admin',
+    botowner: 'Only my *Owner*🍫⃞⃕᭕𝑠𝑐𝑖𝑒𝑛𝑡𝑖𝑠𝑡༆𝑘𝑎𝑛𝑎𝑚𝑏𝑜⟫⚖️⃞᭄ can use this command, Baka!',
+    grouponly: 'This command is only made for *Groups*, 💀!',
+    privateonly: 'This command is only made for *Private Chat*, ❌!',
     botonly: 'Only the *Bot itself* can use this command!',
     waiting: 'Chotto Matte...',
     nolink: 'Please provide me *link*, Baka!',
